@@ -1,0 +1,15 @@
+C:\Users\Professional\Desktop\HomeWork_4\TwoApp\bin\Debug\net6.0\TwoApp.exe
+C:\Users\Professional\Desktop\HomeWork_4\TwoApp\bin\Debug\net6.0\TwoApp.deps.json
+C:\Users\Professional\Desktop\HomeWork_4\TwoApp\bin\Debug\net6.0\TwoApp.runtimeconfig.json
+C:\Users\Professional\Desktop\HomeWork_4\TwoApp\bin\Debug\net6.0\TwoApp.dll
+C:\Users\Professional\Desktop\HomeWork_4\TwoApp\bin\Debug\net6.0\TwoApp.pdb
+C:\Users\Professional\Desktop\HomeWork_4\TwoApp\obj\Debug\net6.0\TwoApp.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\HomeWork_4\TwoApp\obj\Debug\net6.0\TwoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\HomeWork_4\TwoApp\obj\Debug\net6.0\TwoApp.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\HomeWork_4\TwoApp\obj\Debug\net6.0\TwoApp.AssemblyInfo.cs
+C:\Users\Professional\Desktop\HomeWork_4\TwoApp\obj\Debug\net6.0\TwoApp.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\HomeWork_4\TwoApp\obj\Debug\net6.0\TwoApp.dll
+C:\Users\Professional\Desktop\HomeWork_4\TwoApp\obj\Debug\net6.0\refint\TwoApp.dll
+C:\Users\Professional\Desktop\HomeWork_4\TwoApp\obj\Debug\net6.0\TwoApp.pdb
+C:\Users\Professional\Desktop\HomeWork_4\TwoApp\obj\Debug\net6.0\TwoApp.genruntimeconfig.cache
+C:\Users\Professional\Desktop\HomeWork_4\TwoApp\obj\Debug\net6.0\ref\TwoApp.dll
